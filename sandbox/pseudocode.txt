@@ -1,0 +1,16 @@
+// The computer throws three dice,
+// sorts them in order (smallest to largest),
+// and outputs their sum.
+
+// Loop:    
+    // Prompt the user to guess the value of each die,    
+    // from smallest to largest (non-decreasing).        
+
+    // If the guesses are out of order, prompt to guess again.        
+
+    // If the guesses don't produce the desired sum, prompt to guess again.        
+
+    // If the guesses are incorrect, prompt to guess again.        
+
+    // If the guesses are correct, the user wins!
+
